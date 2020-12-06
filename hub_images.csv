@@ -1,0 +1,469 @@
+model_name,image_name,objects,avg_image
+CenterNet_HourGlass104_512x512,Beach_900,"{'person': 11, 'kite': 8, 'surfboard': 1}",21.38181710243225
+CenterNet_HourGlass104_512x512,Beach_426,"{'person': 12, 'kite': 7, 'surfboard': 1}",21.400707387924193
+CenterNet_HourGlass104_512x512,Dogs_636,"{'dog': 4, 'person': 4}",22.008043098449708
+CenterNet_HourGlass104_512x512,Dogs_397,"{'person': 5, 'dog': 3}",22.098682594299316
+CenterNet_HourGlass104_512x512,Naxos Taverna_1024,"{'chair': 13, 'vase': 3, 'potted plant': 2, 'person': 1, 'umbrella': 1}",22.1767409324646
+CenterNet_HourGlass104_512x512,Naxos Taverna_426,"{'chair': 11, 'vase': 4, 'dining table': 2, 'potted plant': 1, 'umbrella': 1, 'person': 1}",22.090643453598023
+CenterNet_HourGlass104_512x512,Beatles_1800,{'bird': 2},22.089593124389648
+CenterNet_HourGlass104_512x512,Beatles_640,"{'bird': 1, 'clock': 1}",22.00082383155823
+CenterNet_HourGlass104_512x512,Phones_768,"{'cell phone': 9, 'book': 4, 'knife': 2, 'remote': 1, 'clock': 1, 'dining table': 1}",21.453359508514403
+CenterNet_HourGlass104_512x512,Phones_480,"{'cell phone': 10, 'book': 4, 'remote': 1}",21.477167654037476
+CenterNet_HourGlass104_512x512,Birds_2951,"{'bird': 18, 'book': 1}",21.590927267074584
+CenterNet_HourGlass104_512x512,Birds_640,"{'bird': 17, 'book': 1}",21.76419005393982
+CenterNet_HourGlass104_Keypoints_512x512,Beach_900,"{'bench': 6, 'person': 4, 'handbag': 3, 'backpack': 2, 'kite': 1, 'car': 1, 'sports ball': 1, 'dog': 1, 'book': 1}",23.59928517341614
+CenterNet_HourGlass104_Keypoints_512x512,Beach_426,{'person': 2},23.352101707458495
+CenterNet_HourGlass104_Keypoints_512x512,Dogs_636,"{'dog': 2, 'person': 2}",23.541618585586548
+CenterNet_HourGlass104_Keypoints_512x512,Dogs_397,{'dog': 2},23.45322585105896
+CenterNet_HourGlass104_Keypoints_512x512,Naxos Taverna_1024,"{'chair': 16, 'potted plant': 2, 'dining table': 2}",23.505463457107545
+CenterNet_HourGlass104_Keypoints_512x512,Naxos Taverna_426,"{'chair': 13, 'dining table': 4, 'cup': 1, 'bottle': 1, 'bench': 1}",23.372391843795775
+CenterNet_HourGlass104_Keypoints_512x512,Beatles_1800,"{'bird': 1, 'vase': 1, 'clock': 1, 'bicycle': 1}",23.432105207443236
+CenterNet_HourGlass104_Keypoints_512x512,Beatles_640,{'clock': 1},23.342492818832397
+CenterNet_HourGlass104_Keypoints_512x512,Phones_768,"{'book': 10, 'cell phone': 6, 'laptop': 1, 'handbag': 1, 'remote': 1, 'knife': 1}",23.357564163208007
+CenterNet_HourGlass104_Keypoints_512x512,Phones_480,"{'cell phone': 11, 'book': 7, 'laptop': 1, 'truck': 1}",23.440007305145265
+CenterNet_HourGlass104_Keypoints_512x512,Birds_2951,{'bird': 8},23.429988431930543
+CenterNet_HourGlass104_Keypoints_512x512,Birds_640,"{'horse': 1, 'person': 1, 'dog': 1}",23.345692682266236
+CenterNet_HourGlass104_1024x1024,Beach_900,"{'person': 4, 'stop sign': 1}",84.70950407981873
+CenterNet_HourGlass104_1024x1024,Beach_426,"{'person': 3, 'fire hydrant': 1, 'handbag': 1}",84.8963852405548
+CenterNet_HourGlass104_1024x1024,Dogs_636,"{'dog': 4, 'cat': 3}",84.79901909828186
+CenterNet_HourGlass104_1024x1024,Dogs_397,"{'person': 4, 'dog': 2, 'car': 1, 'boat': 1, 'truck': 1}",84.76613636016846
+CenterNet_HourGlass104_1024x1024,Naxos Taverna_1024,"{'chair': 14, 'dining table': 3, 'vase': 1, 'potted plant': 1, 'umbrella': 1}",84.73818068504333
+CenterNet_HourGlass104_1024x1024,Naxos Taverna_426,"{'chair': 12, 'dining table': 4, 'umbrella': 3, 'potted plant': 1}",84.89862442016602
+CenterNet_HourGlass104_1024x1024,Beatles_1800,"{'clock': 10, 'person': 2, 'bird': 2, 'zebra': 1, 'potted plant': 1}",84.93320355415344
+CenterNet_HourGlass104_1024x1024,Beatles_640,"{'clock': 8, 'bird': 2, 'horse': 1}",84.75265274047851
+CenterNet_HourGlass104_1024x1024,Phones_768,"{'cell phone': 11, 'book': 8, 'dining table': 1}",84.73362078666688
+CenterNet_HourGlass104_1024x1024,Phones_480,"{'cell phone': 13, 'book': 6, 'dining table': 1}",85.15052456855774
+CenterNet_HourGlass104_1024x1024,Birds_2951,"{'bird': 12, 'bowl': 2, 'vase': 2, 'cat': 2, 'horse': 1, 'potted plant': 1}",84.83575053215027
+CenterNet_HourGlass104_1024x1024,Birds_640,"{'bear': 5, 'dog': 2, 'bird': 2, 'sheep': 1}",84.67912764549256
+CenterNet_HourGlass104_Keypoints_1024x1024,Beach_900,"{'person': 1, 'car': 1}",94.04042611122131
+CenterNet_HourGlass104_Keypoints_1024x1024,Beach_426,{'person': 1},94.28942079544068
+CenterNet_HourGlass104_Keypoints_1024x1024,Dogs_636,{'dog': 2},94.22130060195923
+CenterNet_HourGlass104_Keypoints_1024x1024,Dogs_397,"{'dog': 2, 'person': 1, 'car': 1}",94.00428094863892
+CenterNet_HourGlass104_Keypoints_1024x1024,Naxos Taverna_1024,"{'chair': 10, 'dining table': 8, 'bench': 2}",94.22414841651917
+CenterNet_HourGlass104_Keypoints_1024x1024,Naxos Taverna_426,"{'chair': 10, 'bench': 2, 'dining table': 1}",94.64914846420288
+CenterNet_HourGlass104_Keypoints_1024x1024,Beatles_1800,"{'clock': 2, 'backpack': 1, 'person': 1, 'handbag': 1, 'chair': 1}",97.22033476829529
+CenterNet_HourGlass104_Keypoints_1024x1024,Beatles_640,"{'traffic light': 1, 'suitcase': 1, 'cell phone': 1}",94.30196585655213
+CenterNet_HourGlass104_Keypoints_1024x1024,Phones_768,"{'book': 10, 'cell phone': 9, 'clock': 1}",94.21776762008668
+CenterNet_HourGlass104_Keypoints_1024x1024,Phones_480,"{'cell phone': 10, 'book': 6, 'cup': 2}",93.92197852134704
+CenterNet_HourGlass104_Keypoints_1024x1024,Birds_2951,"{'potted plant': 2, 'umbrella': 1, 'elephant': 1}",94.33509826660156
+CenterNet_HourGlass104_Keypoints_1024x1024,Birds_640,"{'horse': 1, 'elephant': 1, 'dog': 1}",94.1244240283966
+CenterNet_Resnet50_V1_FPN_512x512,Beach_900,"{'person': 7, 'truck': 3, 'bus': 2, 'bird': 1, 'clock': 1, 'car': 1}",3.253828525543213
+CenterNet_Resnet50_V1_FPN_512x512,Beach_426,"{'person': 1, 'traffic light': 1, 'cell phone': 1}",3.2462485790252686
+CenterNet_Resnet50_V1_FPN_512x512,Dogs_636,"{'dog': 5, 'couch': 3, 'car': 1, 'truck': 1, 'chair': 1}",3.269542407989502
+CenterNet_Resnet50_V1_FPN_512x512,Dogs_397,"{'truck': 8, 'dog': 6, 'couch': 3, 'car': 3}",3.2554046154022216
+CenterNet_Resnet50_V1_FPN_512x512,Naxos Taverna_1024,"{'chair': 10, 'person': 3, 'dining table': 3, 'potted plant': 1, 'bench': 1, 'truck': 1, 'bus': 1}",3.2620988845825196
+CenterNet_Resnet50_V1_FPN_512x512,Naxos Taverna_426,"{'car': 5, 'person': 2, 'umbrella': 2, 'chair': 1}",3.2727978229522705
+CenterNet_Resnet50_V1_FPN_512x512,Beatles_1800,"{'bird': 7, 'clock': 3, 'cat': 3, 'bottle': 2, 'cell phone': 1, 'remote': 1, 'potted plant': 1, 'chair': 1, 'teddy bear': 1}",3.2907858371734617
+CenterNet_Resnet50_V1_FPN_512x512,Beatles_640,"{'bird': 2, 'person': 1, 'dog': 1, 'teddy bear': 1, 'refrigerator': 1, 'horse': 1, 'fire hydrant': 1, 'cat': 1}",3.2461509227752687
+CenterNet_Resnet50_V1_FPN_512x512,Phones_768,"{'book': 11, 'cell phone': 6, 'microwave': 1, 'laptop': 1, 'tv': 1}",3.2667048931121827
+CenterNet_Resnet50_V1_FPN_512x512,Phones_480,"{'cell phone': 6, 'book': 3, 'bus': 2, 'train': 2, 'truck': 2, 'cat': 1, 'laptop': 1, 'horse': 1, 'handbag': 1, 'person': 1}",3.253239107131958
+CenterNet_Resnet50_V1_FPN_512x512,Birds_2951,"{'bird': 4, 'boat': 2, 'potted plant': 1, 'cat': 1, 'vase': 1, 'sports ball': 1, 'sheep': 1}",3.4139662742614747
+CenterNet_Resnet50_V1_FPN_512x512,Birds_640,"{'truck': 6, 'book': 2, 'dog': 2, 'bird': 1, 'banana': 1, 'tv': 1, 'sandwich': 1, 'horse': 1, 'teddy bear': 1, 'chair': 1, 'couch': 1, 'sheep': 1}",3.268860673904419
+CenterNet_Resnet50_V1_FPN_Keypoints_512x512,Beach_900,"{'traffic light': 1, 'boat': 1, 'bench': 1}",3.4388017654418945
+CenterNet_Resnet50_V1_FPN_Keypoints_512x512,Beach_426,"{'person': 1, 'sports ball': 1}",3.437783718109131
+CenterNet_Resnet50_V1_FPN_Keypoints_512x512,Dogs_636,"{'bed': 5, 'dog': 2, 'couch': 2, 'cow': 1, 'book': 1}",3.44861044883728
+CenterNet_Resnet50_V1_FPN_Keypoints_512x512,Dogs_397,"{'dog': 4, 'car': 4, 'truck': 4, 'bed': 2}",3.4148299217224123
+CenterNet_Resnet50_V1_FPN_Keypoints_512x512,Naxos Taverna_1024,"{'person': 9, 'car': 6, 'boat': 2, 'bench': 1, 'donut': 1, 'bicycle': 1}",3.4354027271270753
+CenterNet_Resnet50_V1_FPN_Keypoints_512x512,Naxos Taverna_426,"{'traffic light': 3, 'person': 3, 'book': 1, 'tv': 1, 'car': 1}",3.434540891647339
+CenterNet_Resnet50_V1_FPN_Keypoints_512x512,Beatles_1800,"{'person': 4, 'teddy bear': 3, 'bottle': 2, 'fire hydrant': 1, 'refrigerator': 1, 'car': 1, 'dog': 1, 'zebra': 1, 'horse': 1, 'cup': 1, 'motorcycle': 1, 'bird': 1, 'vase': 1, 'bicycle': 1}",3.4606839656829833
+CenterNet_Resnet50_V1_FPN_Keypoints_512x512,Beatles_640,"{'bird': 4, 'dog': 3, 'horse': 3, 'cow': 1, 'vase': 1, 'cup': 1, 'sheep': 1, 'car': 1, 'bottle': 1, 'truck': 1, 'bicycle': 1, 'cat': 1, 'backpack': 1}",3.4213865756988526
+CenterNet_Resnet50_V1_FPN_Keypoints_512x512,Phones_768,"{'book': 9, 'cell phone': 5, 'clock': 3, 'laptop': 1, 'remote': 1, 'cup': 1}",3.4124349117279054
+CenterNet_Resnet50_V1_FPN_Keypoints_512x512,Phones_480,"{'train': 4, 'cell phone': 3, 'book': 2, 'bus': 2, 'truck': 1, 'car': 1, 'person': 1}",3.439208507537842
+CenterNet_Resnet50_V1_FPN_Keypoints_512x512,Birds_2951,"{'bird': 3, 'suitcase': 3, 'teddy bear': 2, 'handbag': 2, 'potted plant': 1, 'backpack': 1}",3.60087571144104
+CenterNet_Resnet50_V1_FPN_Keypoints_512x512,Birds_640,"{'truck': 4, 'banana': 3, 'train': 2, 'teddy bear': 2, 'bear': 1}",3.4365197658538817
+CenterNet_Resnet101_V1_FPN_512x512,Beach_900,"{'person': 1, 'car': 1}",5.260725975036621
+CenterNet_Resnet101_V1_FPN_512x512,Beach_426,"{'parking meter': 1, 'person': 1}",5.242674827575684
+CenterNet_Resnet101_V1_FPN_512x512,Dogs_636,{'dog': 2},5.30917181968689
+CenterNet_Resnet101_V1_FPN_512x512,Dogs_397,"{'dog': 2, 'cow': 2, 'car': 1}",5.252982950210571
+CenterNet_Resnet101_V1_FPN_512x512,Naxos Taverna_1024,"{'bench': 5, 'person': 5, 'bus': 2, 'clock': 2, 'tv': 1, 'truck': 1, 'chair': 1}",5.2362724304199215
+CenterNet_Resnet101_V1_FPN_512x512,Naxos Taverna_426,"{'bench': 2, 'clock': 1, 'cell phone': 1, 'car': 1, 'traffic light': 1, 'person': 1, 'dog': 1, 'potted plant': 1, 'suitcase': 1}",5.259251976013184
+CenterNet_Resnet101_V1_FPN_512x512,Beatles_1800,"{'bicycle': 4, 'clock': 4, 'bottle': 3, 'person': 3, 'dog': 1, 'backpack': 1, 'cat': 1, 'fire hydrant': 1, 'handbag': 1, 'vase': 1}",5.3303525924682615
+CenterNet_Resnet101_V1_FPN_512x512,Beatles_640,"{'person': 3, 'dog': 1, 'horse': 1, 'fire hydrant': 1, 'parking meter': 1, 'potted plant': 1, 'bird': 1}",5.262223815917968
+CenterNet_Resnet101_V1_FPN_512x512,Phones_768,"{'cell phone': 7, 'book': 5, 'laptop': 3, 'traffic light': 1}",5.246181392669678
+CenterNet_Resnet101_V1_FPN_512x512,Phones_480,"{'cell phone': 3, 'tv': 2, 'person': 2, 'laptop': 1, 'book': 1, 'oven': 1}",5.256675767898559
+CenterNet_Resnet101_V1_FPN_512x512,Birds_2951,"{'bird': 3, 'banana': 3, 'horse': 2, 'boat': 2, 'elephant': 1, 'person': 1, 'toilet': 1, 'bowl': 1}",5.4144586563110355
+CenterNet_Resnet101_V1_FPN_512x512,Birds_640,"{'train': 1, 'bus': 1, 'person': 1}",5.242666530609131
+CenterNet_Resnet50_V2_512x512,Beach_900,"{'bench': 5, 'person': 2, 'car': 2, 'traffic light': 1}",2.918711948394775
+CenterNet_Resnet50_V2_512x512,Beach_426,"{'sports ball': 1, 'stop sign': 1, 'traffic light': 1, 'backpack': 1, 'tie': 1}",2.892071771621704
+CenterNet_Resnet50_V2_512x512,Dogs_636,"{'car': 4, 'motorcycle': 4, 'dog': 2, 'truck': 1, 'chair': 1, 'teddy bear': 1, 'bed': 1}",2.9052380084991456
+CenterNet_Resnet50_V2_512x512,Dogs_397,"{'car': 5, 'dog': 3, 'cow': 3, 'person': 2, 'teddy bear': 1, 'sheep': 1, 'bus': 1, 'truck': 1}",2.8849137306213377
+CenterNet_Resnet50_V2_512x512,Naxos Taverna_1024,"{'person': 6, 'bench': 5, 'chair': 2, 'bird': 2, 'sports ball': 1, 'book': 1}",2.90863094329834
+CenterNet_Resnet50_V2_512x512,Naxos Taverna_426,"{'person': 3, 'traffic light': 2, 'car': 2, 'truck': 1}",2.8679697036743166
+CenterNet_Resnet50_V2_512x512,Beatles_1800,"{'person': 6, 'book': 2, 'bird': 1, 'sports ball': 1, 'cell phone': 1, 'dog': 1, 'chair': 1}",2.9098825454711914
+CenterNet_Resnet50_V2_512x512,Beatles_640,"{'person': 4, 'stop sign': 1, 'bird': 1, 'donut': 1, 'cell phone': 1}",2.873570108413696
+CenterNet_Resnet50_V2_512x512,Phones_768,"{'book': 15, 'cell phone': 3, 'laptop': 1, 'tv': 1}",2.8855977058410645
+CenterNet_Resnet50_V2_512x512,Phones_480,"{'book': 10, 'tv': 4, 'cell phone': 3, 'clock': 2, 'laptop': 1}",2.881533622741699
+CenterNet_Resnet50_V2_512x512,Birds_2951,"{'bird': 4, 'sheep': 2, 'person': 2, 'bowl': 1, 'motorcycle': 1}",3.04756646156311
+CenterNet_Resnet50_V2_512x512,Birds_640,"{'book': 5, 'car': 4, 'bus': 3, 'truck': 2, 'person': 2, 'donut': 1, 'teddy bear': 1, 'dog': 1, 'cake': 1}",2.8920917987823485
+CenterNet_Resnet50_V2_Keypoints_512x512,Beach_900,"{'traffic light': 1, 'book': 1}",3.4294366359710695
+CenterNet_Resnet50_V2_Keypoints_512x512,Beach_426,{},3.4311639785766603
+CenterNet_Resnet50_V2_Keypoints_512x512,Dogs_636,"{'truck': 5, 'bed': 4, 'dog': 2, 'car': 2, 'cow': 1, 'chair': 1}",3.441610908508301
+CenterNet_Resnet50_V2_Keypoints_512x512,Dogs_397,"{'cow': 4, 'dog': 3, 'truck': 3, 'bed': 2, 'horse': 1}",3.4215871334075927
+CenterNet_Resnet50_V2_Keypoints_512x512,Naxos Taverna_1024,"{'person': 2, 'car': 1, 'stop sign': 1, 'chair': 1, 'bench': 1}",3.45129599571228
+CenterNet_Resnet50_V2_Keypoints_512x512,Naxos Taverna_426,{},3.453586483001709
+CenterNet_Resnet50_V2_Keypoints_512x512,Beatles_1800,"{'bottle': 4, 'train': 3, 'book': 3, 'person': 2, 'cat': 1, 'teddy bear': 1, 'refrigerator': 1, 'dog': 1, 'bowl': 1, 'tie': 1, 'wine glass': 1, 'bear': 1}",3.4571752071380617
+CenterNet_Resnet50_V2_Keypoints_512x512,Beatles_640,"{'person': 2, 'dog': 2, 'horse': 1, 'bird': 1, 'traffic light': 1}",3.438301372528076
+CenterNet_Resnet50_V2_Keypoints_512x512,Phones_768,"{'book': 7, 'train': 4, 'cell phone': 3, 'clock': 3, 'laptop': 2, 'tv': 1}",3.4332897663116455
+CenterNet_Resnet50_V2_Keypoints_512x512,Phones_480,"{'book': 2, 'cell phone': 1, 'car': 1, 'person': 1, 'tv': 1, 'truck': 1}",3.4093986988067626
+CenterNet_Resnet50_V2_Keypoints_512x512,Birds_2951,"{'bird': 6, 'suitcase': 2, 'teddy bear': 1, 'person': 1, 'cake': 1, 'book': 1, 'potted plant': 1, 'handbag': 1}",3.628590488433838
+CenterNet_Resnet50_V2_Keypoints_512x512,Birds_640,"{'truck': 3, 'book': 1, 'person': 1, 'suitcase': 1, 'boat': 1, 'dog': 1}",3.4349496364593506
+EfficientDet_D0_512x512,Beach_900,{'person': 1},1.4157166004180908
+EfficientDet_D0_512x512,Beach_426,{},1.3848336219787598
+EfficientDet_D0_512x512,Dogs_636,"{'person': 5, 'dog': 4, 'cow': 2, 'horse': 2, 'truck': 1}",1.4048625946044921
+EfficientDet_D0_512x512,Dogs_397,"{'cow': 6, 'dog': 6, 'horse': 3, 'person': 2, 'bear': 1, 'cat': 1, 'sheep': 1}",1.4045700550079345
+EfficientDet_D0_512x512,Naxos Taverna_1024,"{'chair': 5, 'book': 5, 'banana': 3, 'umbrella': 2, 'car': 2, 'bus': 1, 'oven': 1, 'backpack': 1}",1.4618289947509766
+EfficientDet_D0_512x512,Naxos Taverna_426,{},1.394542646408081
+EfficientDet_D0_512x512,Beatles_1800,"{'refrigerator': 7, 'person': 6, 'bottle': 2, 'chair': 1, 'clock': 1, 'cup': 1, 'vase': 1, 'book': 1}",1.5034662723541259
+EfficientDet_D0_512x512,Beatles_640,"{'clock': 2, 'bird': 1, 'traffic light': 1, 'person': 1}",1.402684497833252
+EfficientDet_D0_512x512,Phones_768,"{'cell phone': 11, 'book': 6, 'laptop': 3}",1.4427952289581298
+EfficientDet_D0_512x512,Phones_480,"{'cell phone': 7, 'book': 3, 'tv': 2, 'laptop': 1, 'bed': 1, 'keyboard': 1, 'umbrella': 1}",1.4226655960083008
+EfficientDet_D0_512x512,Birds_2951,{'bird': 20},1.7615306377410889
+EfficientDet_D0_512x512,Birds_640,"{'book': 3, 'bed': 3, 'person': 2, 'dog': 1, 'teddy bear': 1}",1.4074238777160644
+EfficientDet_D1_640x640,Beach_900,{'traffic light': 1},2.764234161376953
+EfficientDet_D1_640x640,Beach_426,{},2.723509407043457
+EfficientDet_D1_640x640,Dogs_636,"{'dog': 4, 'horse': 4, 'cow': 2, 'sheep': 2, 'bear': 1, 'person': 1, 'bench': 1, 'elephant': 1}",2.7429606914520264
+EfficientDet_D1_640x640,Dogs_397,"{'horse': 6, 'person': 5, 'dog': 4, 'bear': 1, 'elephant': 1, 'sheep': 1, 'cow': 1, 'teddy bear': 1}",2.7638975620269775
+EfficientDet_D1_640x640,Naxos Taverna_1024,"{'car': 2, 'person': 1, 'bus': 1, 'motorcycle': 1}",2.809296178817749
+EfficientDet_D1_640x640,Naxos Taverna_426,"{'car': 1, 'person': 1}",2.7581984996795654
+EfficientDet_D1_640x640,Beatles_1800,"{'book': 6, 'refrigerator': 1, 'cat': 1, 'dog': 1, 'traffic light': 1}",2.898119258880615
+EfficientDet_D1_640x640,Beatles_640,"{'person': 3, 'cat': 3, 'dog': 2, 'bird': 2, 'horse': 2, 'clock': 1, 'cow': 1, 'elephant': 1, 'bear': 1, 'sheep': 1}",2.7823278427124025
+EfficientDet_D1_640x640,Phones_768,"{'cell phone': 12, 'book': 4, 'person': 1, 'tv': 1, 'laptop': 1, 'remote': 1}",2.8353395462036133
+EfficientDet_D1_640x640,Phones_480,"{'cell phone': 7, 'book': 5, 'person': 3, 'dog': 1, 'tv': 1}",2.7755249977111816
+EfficientDet_D1_640x640,Birds_2951,"{'bird': 13, 'dog': 2, 'train': 1, 'elephant': 1, 'bear': 1, 'cat': 1, 'bed': 1}",3.134019136428833
+EfficientDet_D1_640x640,Birds_640,"{'book': 7, 'cat': 4, 'person': 3, 'dog': 2, 'bench': 2, 'bed': 1, 'teddy bear': 1}",2.764716291427612
+EfficientDet_D2_768x768,Beach_900,{},4.6814759254455565
+EfficientDet_D2_768x768,Beach_426,{'person': 1},4.634630537033081
+EfficientDet_D2_768x768,Dogs_636,"{'dog': 4, 'elephant': 2, 'cat': 1, 'person': 1}",4.672491645812988
+EfficientDet_D2_768x768,Dogs_397,"{'dog': 7, 'elephant': 3, 'person': 3, 'sheep': 2, 'cat': 2, 'bear': 1, 'horse': 1, 'cow': 1}",4.691406106948852
+EfficientDet_D2_768x768,Naxos Taverna_1024,"{'book': 12, 'chair': 3, 'dining table': 2, 'person': 2, 'umbrella': 1}",4.7291265487670895
+EfficientDet_D2_768x768,Naxos Taverna_426,"{'book': 4, 'umbrella': 1, 'person': 1}",4.6496453285217285
+EfficientDet_D2_768x768,Beatles_1800,"{'book': 6, 'dog': 1, 'cat': 1, 'vase': 1}",4.8484461307525635
+EfficientDet_D2_768x768,Beatles_640,"{'person': 2, 'bird': 1, 'dog': 1}",4.6998576641082765
+EfficientDet_D2_768x768,Phones_768,"{'cell phone': 10, 'book': 8, 'person': 1, 'laptop': 1}",4.739676523208618
+EfficientDet_D2_768x768,Phones_480,"{'cell phone': 6, 'tv': 5, 'book': 4, 'person': 2, 'bird': 1, 'remote': 1, 'cat': 1}",4.709268808364868
+EfficientDet_D2_768x768,Birds_2951,"{'dog': 3, 'banana': 2, 'bird': 2, 'refrigerator': 1, 'umbrella': 1, 'cat': 1, 'teddy bear': 1, 'bottle': 1, 'person': 1}",5.057991313934326
+EfficientDet_D2_768x768,Birds_640,"{'dog': 6, 'cat': 3, 'bird': 1, 'teddy bear': 1}",4.696957349777222
+EfficientDet_D3_896x896,Beach_900,{'traffic light': 1},8.46292324066162
+EfficientDet_D3_896x896,Beach_426,{},8.439309215545654
+EfficientDet_D3_896x896,Dogs_636,"{'dog': 5, 'person': 1}",8.45487313270569
+EfficientDet_D3_896x896,Dogs_397,"{'dog': 6, 'person': 5, 'bear': 2, 'horse': 1, 'cat': 1, 'cow': 1}",8.445961284637452
+EfficientDet_D3_896x896,Naxos Taverna_1024,"{'chair': 1, 'book': 1, 'backpack': 1, 'person': 1}",8.522977828979492
+EfficientDet_D3_896x896,Naxos Taverna_426,{'book': 3},8.492372798919678
+EfficientDet_D3_896x896,Beatles_1800,"{'book': 7, 'person': 3, 'vase': 2, 'backpack': 2, 'teddy bear': 1, 'horse': 1, 'tie': 1, 'dog': 1, 'refrigerator': 1, 'bottle': 1}",8.603227567672729
+EfficientDet_D3_896x896,Beatles_640,"{'dog': 4, 'person': 4, 'teddy bear': 2, 'cell phone': 1, 'book': 1}",8.536632394790649
+EfficientDet_D3_896x896,Phones_768,"{'book': 11, 'cell phone': 6, 'tv': 2, 'car': 1}",8.51476263999939
+EfficientDet_D3_896x896,Phones_480,"{'book': 5, 'tv': 4, 'cell phone': 3, 'dog': 2, 'person': 2, 'elephant': 1, 'car': 1, 'horse': 1, 'teddy bear': 1}",8.545189142227173
+EfficientDet_D3_896x896,Birds_2951,"{'bird': 2, 'refrigerator': 1, 'book': 1, 'bed': 1, 'airplane': 1, 'umbrella': 1}",8.881112670898437
+EfficientDet_D3_896x896,Birds_640,"{'book': 7, 'teddy bear': 2, 'cat': 1, 'bird': 1, 'dog': 1, 'person': 1}",8.52255620956421
+EfficientDet_D4_1024x1024,Beach_900,{},15.80710048675537
+EfficientDet_D4_1024x1024,Beach_426,{'person': 2},15.76198115348816
+EfficientDet_D4_1024x1024,Dogs_636,"{'dog': 3, 'cow': 1}",15.78648796081543
+EfficientDet_D4_1024x1024,Dogs_397,"{'dog': 3, 'elephant': 2, 'cow': 2, 'bear': 2, 'horse': 2, 'cat': 2, 'person': 1, 'sheep': 1}",15.732399415969848
+EfficientDet_D4_1024x1024,Naxos Taverna_1024,"{'book': 2, 'umbrella': 1, 'chair': 1}",15.925999641418457
+EfficientDet_D4_1024x1024,Naxos Taverna_426,{'umbrella': 1},15.825209093093871
+EfficientDet_D4_1024x1024,Beatles_1800,"{'book': 5, 'cell phone': 2, 'backpack': 1, 'traffic light': 1, 'person': 1}",15.894380807876587
+EfficientDet_D4_1024x1024,Beatles_640,"{'book': 1, 'clock': 1, 'dog': 1}",15.869617462158203
+EfficientDet_D4_1024x1024,Phones_768,"{'cell phone': 10, 'book': 9, 'person': 1}",15.794586896896362
+EfficientDet_D4_1024x1024,Phones_480,"{'cell phone': 10, 'book': 8, 'person': 2}",15.802423143386841
+EfficientDet_D4_1024x1024,Birds_2951,"{'bird': 13, 'teddy bear': 3, 'dog': 3, 'cat': 1}",16.146866941452025
+EfficientDet_D4_1024x1024,Birds_640,"{'dog': 3, 'cat': 2}",15.76061201095581
+EfficientDet_D5_1280x1280,Beach_900,{'person': 1},34.18146224021912
+EfficientDet_D5_1280x1280,Beach_426,{},34.12775011062622
+EfficientDet_D5_1280x1280,Dogs_636,"{'cow': 9, 'horse': 5, 'sheep': 4, 'dog': 2}",34.03788266181946
+EfficientDet_D5_1280x1280,Dogs_397,"{'horse': 7, 'cow': 7, 'sheep': 1, 'dog': 1, 'elephant': 1}",34.136738777160645
+EfficientDet_D5_1280x1280,Naxos Taverna_1024,"{'chair': 14, 'dining table': 2, 'bench': 2, 'umbrella': 1, 'person': 1}",34.1950325012207
+EfficientDet_D5_1280x1280,Naxos Taverna_426,{},34.19085330963135
+EfficientDet_D5_1280x1280,Beatles_1800,"{'bottle': 2, 'cell phone': 2, 'traffic light': 2, 'refrigerator': 1, 'stop sign': 1, 'person': 1, 'cat': 1, 'clock': 1, 'dog': 1}",34.29459710121155
+EfficientDet_D5_1280x1280,Beatles_640,"{'dog': 2, 'horse': 1, 'cat': 1, 'bird': 1}",34.26960492134094
+EfficientDet_D5_1280x1280,Phones_768,"{'book': 13, 'cell phone': 6, 'laptop': 1}",34.41734275817871
+EfficientDet_D5_1280x1280,Phones_480,"{'cell phone': 3, 'horse': 3, 'bicycle': 3, 'dog': 2, 'book': 1, 'remote': 1, 'tv': 1, 'bird': 1, 'cat': 1, 'cow': 1, 'person': 1}",34.260014629364015
+EfficientDet_D5_1280x1280,Birds_2951,"{'teddy bear': 9, 'book': 3, 'person': 2, 'cake': 1, 'bird': 1, 'dog': 1, 'horse': 1, 'bed': 1, 'bear': 1}",34.60239152908325
+EfficientDet_D5_1280x1280,Birds_640,{'person': 1},34.38098230361938
+EfficientDet_D6_1280x1280,Beach_900,{'person': 2},60.94462018013
+EfficientDet_D6_1280x1280,Beach_426,{},60.80314598083496
+EfficientDet_D6_1280x1280,Dogs_636,"{'dog': 6, 'horse': 2, 'cow': 1}",60.81365308761597
+EfficientDet_D6_1280x1280,Dogs_397,"{'dog': 4, 'cow': 4, 'horse': 4}",60.88464889526367
+EfficientDet_D6_1280x1280,Naxos Taverna_1024,"{'chair': 5, 'person': 3, 'umbrella': 2, 'bench': 1, 'bed': 1}",60.74196724891662
+EfficientDet_D6_1280x1280,Naxos Taverna_426,{'umbrella': 1},61.143457651138306
+EfficientDet_D6_1280x1280,Beatles_1800,"{'bird': 3, 'person': 3, 'cell phone': 2, 'cat': 2, 'dog': 2, 'refrigerator': 1, 'bear': 1, 'remote': 1}",61.7594497680664
+EfficientDet_D6_1280x1280,Beatles_640,"{'person': 1, 'dog': 1, 'clock': 1}",60.965594577789304
+EfficientDet_D6_1280x1280,Phones_768,"{'cell phone': 6, 'person': 4, 'book': 2, 'tv': 1}",61.18895153999328
+EfficientDet_D6_1280x1280,Phones_480,"{'cell phone': 2, 'person': 2, 'dog': 1, 'cat': 1, 'elephant': 1, 'car': 1}",61.13142704963684
+EfficientDet_D6_1280x1280,Birds_2951,"{'bird': 18, 'cat': 1, 'dog': 1}",61.87501344680786
+EfficientDet_D6_1280x1280,Birds_640,{},61.39631490707397
+EfficientDet_D7_1536x1536,Beach_900,{'person': 2},72.37248425483703
+EfficientDet_D7_1536x1536,Beach_426,{},72.36747508049011
+EfficientDet_D7_1536x1536,Dogs_636,"{'horse': 9, 'cow': 2, 'dog': 2, 'sheep': 1}",72.44382429122925
+EfficientDet_D7_1536x1536,Dogs_397,"{'dog': 5, 'horse': 3, 'cow': 2, 'person': 1, 'sheep': 1}",72.78480973243714
+EfficientDet_D7_1536x1536,Naxos Taverna_1024,{},72.63502788543701
+EfficientDet_D7_1536x1536,Naxos Taverna_426,{},72.27006874084472
+EfficientDet_D7_1536x1536,Beatles_1800,"{'refrigerator': 1, 'person': 1, 'cell phone': 1, 'stop sign': 1}",72.6894802570343
+EfficientDet_D7_1536x1536,Beatles_640,"{'person': 2, 'dog': 1, 'cat': 1}",72.48636984825134
+EfficientDet_D7_1536x1536,Phones_768,"{'cell phone': 9, 'book': 3}",72.3984926700592
+EfficientDet_D7_1536x1536,Phones_480,"{'cell phone': 2, 'person': 1}",72.69443283081054
+EfficientDet_D7_1536x1536,Birds_2951,{'bird': 20},73.01813540458679
+EfficientDet_D7_1536x1536,Birds_640,{'cat': 1},72.73600382804871
+SSD_MobileNet_v2_320x320,Beach_900,"{'bus': 7, 'traffic light': 4, 'truck': 4, 'car': 2, 'train': 2, 'potted plant': 1}",0.28702316284179685
+SSD_MobileNet_v2_320x320,Beach_426,"{'person': 5, 'traffic light': 4, 'kite': 2, 'potted plant': 2, 'bench': 1, 'bird': 1, 'train': 1, 'tv': 1, 'truck': 1, 'book': 1, 'bus': 1}",0.2552137851715088
+SSD_MobileNet_v2_320x320,Dogs_636,"{'dog': 6, 'person': 3, 'elephant': 3, 'bear': 3, 'cow': 2, 'book': 2, 'bench': 1}",0.2649840354919434
+SSD_MobileNet_v2_320x320,Dogs_397,"{'bench': 9, 'book': 3, 'person': 2, 'dog': 2, 'elephant': 1, 'cow': 1, 'sports ball': 1, 'horse': 1}",0.25965003967285155
+SSD_MobileNet_v2_320x320,Naxos Taverna_1024,"{'bus': 7, 'person': 5, 'traffic light': 3, 'umbrella': 2, 'train': 2, 'stop sign': 1}",0.29578495025634766
+SSD_MobileNet_v2_320x320,Naxos Taverna_426,"{'book': 5, 'person': 5, 'traffic light': 4, 'bird': 2, 'umbrella': 1, 'teddy bear': 1, 'bus': 1, 'truck': 1}",0.2559850215911865
+SSD_MobileNet_v2_320x320,Beatles_1800,"{'book': 9, 'person': 4, 'refrigerator': 2, 'traffic light': 2, 'chair': 2, 'potted plant': 1}",0.31061720848083496
+SSD_MobileNet_v2_320x320,Beatles_640,"{'person': 3, 'traffic light': 3, 'clock': 2, 'tv': 1, 'refrigerator': 1, 'laptop': 1, 'cell phone': 1, 'book': 1, 'cat': 1, 'suitcase': 1, 'remote': 1, 'parking meter': 1, 'bottle': 1, 'bear': 1, 'bird': 1}",0.25966529846191405
+SSD_MobileNet_v2_320x320,Phones_768,"{'book': 13, 'cell phone': 2, 'refrigerator': 1, 'laptop': 1, 'tv': 1, 'person': 1, 'bed': 1}",0.2714962959289551
+SSD_MobileNet_v2_320x320,Phones_480,"{'book': 5, 'keyboard': 2, 'traffic light': 2, 'cell phone': 1, 'clock': 1, 'laptop': 1, 'remote': 1, 'refrigerator': 1, 'tv': 1, 'person': 1, 'parking meter': 1, 'bed': 1, 'dining table': 1, 'cat': 1}",0.2648935317993164
+SSD_MobileNet_v2_320x320,Birds_2951,"{'teddy bear': 14, 'dog': 4, 'book': 1, 'tv': 1}",0.5292506217956543
+SSD_MobileNet_v2_320x320,Birds_640,"{'person': 6, 'book': 3, 'bus': 3, 'bench': 2, 'bird': 2, 'clock': 2, 'refrigerator': 1, 'umbrella': 1}",0.25818710327148436
+SSD_MobileNet_V1_FPN_640x640,Beach_900,"{'refrigerator': 1, 'traffic light': 1, 'chair': 1}",5.384095764160156
+SSD_MobileNet_V1_FPN_640x640,Beach_426,"{'refrigerator': 1, 'truck': 1}",5.336047029495239
+SSD_MobileNet_V1_FPN_640x640,Dogs_636,"{'dog': 4, 'person': 4, 'cat': 2, 'chair': 2, 'bird': 2, 'train': 1, 'bus': 1, 'bear': 1, 'horse': 1, 'oven': 1, 'bed': 1}",5.310124778747559
+SSD_MobileNet_V1_FPN_640x640,Dogs_397,"{'bench': 5, 'book': 5, 'cat': 1, 'train': 1, 'person': 1, 'bus': 1, 'vase': 1, 'umbrella': 1, 'truck': 1, 'stop sign': 1, 'dog': 1, 'giraffe': 1}",5.301038789749145
+SSD_MobileNet_V1_FPN_640x640,Naxos Taverna_1024,"{'book': 4, 'bench': 3, 'car': 2, 'truck': 2, 'chair': 2, 'person': 2, 'bus': 1, 'kite': 1, 'suitcase': 1, 'umbrella': 1, 'traffic light': 1}",5.434819316864013
+SSD_MobileNet_V1_FPN_640x640,Naxos Taverna_426,"{'person': 8, 'traffic light': 2, 'truck': 2, 'car': 2, 'bus': 1, 'book': 1, 'potted plant': 1, 'refrigerator': 1}",5.333486175537109
+SSD_MobileNet_V1_FPN_640x640,Beatles_1800,"{'refrigerator': 8, 'chair': 6, 'person': 2, 'truck': 1, 'bottle': 1, 'book': 1, 'bird': 1}",5.423861074447632
+SSD_MobileNet_V1_FPN_640x640,Beatles_640,"{'traffic light': 6, 'person': 4, 'refrigerator': 1, 'dog': 1, 'book': 1, 'truck': 1, 'cake': 1, 'teddy bear': 1, 'stop sign': 1, 'cat': 1, 'clock': 1, 'vase': 1}",5.426137065887451
+SSD_MobileNet_V1_FPN_640x640,Phones_768,"{'cell phone': 3, 'tv': 3, 'traffic light': 3, 'refrigerator': 2, 'book': 2, 'bus': 1, 'clock': 1, 'truck': 1, 'train': 1, 'oven': 1, 'person': 1, 'microwave': 1}",5.336888027191162
+SSD_MobileNet_V1_FPN_640x640,Phones_480,"{'chair': 2, 'person': 2, 'clock': 2, 'refrigerator': 1, 'book': 1, 'bus': 1, 'bottle': 1, 'train': 1, 'tv': 1, 'stop sign': 1, 'oven': 1, 'truck': 1, 'car': 1, 'parking meter': 1, 'cell phone': 1, 'traffic light': 1, 'remote': 1}",5.446440315246582
+SSD_MobileNet_V1_FPN_640x640,Birds_2951,"{'chair': 12, 'dining table': 4, 'tv': 1, 'laptop': 1, 'boat': 1, 'book': 1}",5.6663548946380615
+SSD_MobileNet_V1_FPN_640x640,Birds_640,"{'train': 2, 'refrigerator': 1, 'bus': 1, 'truck': 1, 'book': 1, 'stop sign': 1, 'bench': 1, 'suitcase': 1}",5.312110137939453
+SSD_MobileNet_V2_FPNLite_320x320,Beach_900,"{'bus': 10, 'truck': 5, 'car': 4, 'refrigerator': 1}",0.40247035026550293
+SSD_MobileNet_V2_FPNLite_320x320,Beach_426,"{'book': 4, 'tv': 3, 'bed': 1, 'keyboard': 1, 'laptop': 1, 'clock': 1}",0.38040957450866697
+SSD_MobileNet_V2_FPNLite_320x320,Dogs_636,"{'dog': 10, 'horse': 2, 'person': 2, 'truck': 1, 'bench': 1, 'potted plant': 1, 'bicycle': 1, 'motorcycle': 1, 'tv': 1}",0.40012168884277344
+SSD_MobileNet_V2_FPNLite_320x320,Dogs_397,"{'dog': 3, 'cat': 3, 'bird': 2, 'train': 1, 'person': 1, 'refrigerator': 1, 'teddy bear': 1, 'bus': 1}",0.3799128532409668
+SSD_MobileNet_V2_FPNLite_320x320,Naxos Taverna_1024,"{'bus': 10, 'truck': 3, 'train': 2, 'refrigerator': 1, 'tv': 1, 'traffic light': 1, 'person': 1, 'motorcycle': 1}",0.41368951797485354
+SSD_MobileNet_V2_FPNLite_320x320,Naxos Taverna_426,"{'book': 6, 'person': 5, 'bed': 1, 'train': 1, 'dining table': 1}",0.385300350189209
+SSD_MobileNet_V2_FPNLite_320x320,Beatles_1800,"{'book': 15, 'refrigerator': 3, 'tv': 1, 'laptop': 1}",0.4390604496002197
+SSD_MobileNet_V2_FPNLite_320x320,Beatles_640,"{'book': 16, 'tv': 2, 'laptop': 1, 'clock': 1}",0.38530683517456055
+SSD_MobileNet_V2_FPNLite_320x320,Phones_768,"{'book': 10, 'cell phone': 4, 'tv': 2, 'laptop': 1, 'traffic light': 1, 'refrigerator': 1, 'person': 1}",0.3973072528839111
+SSD_MobileNet_V2_FPNLite_320x320,Phones_480,"{'book': 10, 'cell phone': 3, 'tv': 2, 'bed': 1, 'keyboard': 1, 'laptop': 1, 'person': 1, 'bench': 1}",0.3885233402252197
+SSD_MobileNet_V2_FPNLite_320x320,Birds_2951,"{'bird': 12, 'dog': 3, 'cat': 2, 'cow': 2, 'stop sign': 1}",0.659099006652832
+SSD_MobileNet_V2_FPNLite_320x320,Birds_640,"{'book': 10, 'clock': 4, 'tv': 1, 'keyboard': 1, 'train': 1, 'bench': 1, 'cat': 1, 'microwave': 1}",0.3769864559173584
+SSD_MobileNet_V2_FPNLite_640x640,Beach_900,"{'book': 15, 'tv': 1, 'dog': 1, 'traffic light': 1, 'clock': 1, 'laptop': 1}",1.3438486576080322
+SSD_MobileNet_V2_FPNLite_640x640,Beach_426,{'train': 1},1.3028232097625732
+SSD_MobileNet_V2_FPNLite_640x640,Dogs_636,"{'person': 7, 'dog': 3, 'cow': 2, 'train': 1, 'bus': 1, 'bird': 1, 'boat': 1, 'backpack': 1, 'kite': 1, 'laptop': 1, 'handbag': 1}",1.318584394454956
+SSD_MobileNet_V2_FPNLite_640x640,Dogs_397,"{'bench': 4, 'dog': 3, 'boat': 1, 'bed': 1, 'train': 1, 'bus': 1, 'teddy bear': 1}",1.3074175834655761
+SSD_MobileNet_V2_FPNLite_640x640,Naxos Taverna_1024,"{'person': 5, 'book': 4, 'car': 3, 'bus': 2, 'train': 1, 'boat': 1, 'traffic light': 1, 'dining table': 1, 'umbrella': 1, 'truck': 1}",1.3553975105285645
+SSD_MobileNet_V2_FPNLite_640x640,Naxos Taverna_426,"{'person': 6, 'car': 4, 'airplane': 3, 'bus': 2, 'train': 1, 'truck': 1}",1.3059236526489257
+SSD_MobileNet_V2_FPNLite_640x640,Beatles_1800,"{'book': 15, 'person': 2, 'bed': 1, 'train': 1, 'boat': 1}",1.3800377368927002
+SSD_MobileNet_V2_FPNLite_640x640,Beatles_640,"{'person': 5, 'boat': 2, 'train': 1, 'bus': 1, 'tv': 1, 'potted plant': 1, 'elephant': 1}",1.307603406906128
+SSD_MobileNet_V2_FPNLite_640x640,Phones_768,"{'cell phone': 4, 'car': 4, 'tv': 3, 'chair': 2, 'bus': 1, 'laptop': 1, 'train': 1, 'boat': 1, 'umbrella': 1, 'bicycle': 1, 'person': 1}",1.332534122467041
+SSD_MobileNet_V2_FPNLite_640x640,Phones_480,"{'bus': 2, 'tv': 2, 'bed': 2, 'cell phone': 2, 'clock': 2, 'umbrella': 1, 'chair': 1, 'couch': 1, 'truck': 1, 'car': 1, 'person': 1, 'train': 1, 'stop sign': 1, 'boat': 1, 'dining table': 1}",1.313356351852417
+SSD_MobileNet_V2_FPNLite_640x640,Birds_2951,"{'bird': 10, 'sheep': 3, 'banana': 2, 'cat': 2, 'tv': 1, 'person': 1, 'umbrella': 1}",1.5800863265991212
+SSD_MobileNet_V2_FPNLite_640x640,Birds_640,"{'train': 2, 'bus': 2, 'tv': 2, 'person': 2, 'laptop': 1, 'umbrella': 1, 'oven': 1, 'keyboard': 1, 'refrigerator': 1}",1.3098180770874024
+SSD_ResNet50_V1_FPN_640x640_(RetinaNet50),Beach_900,"{'refrigerator': 1, 'person': 1, 'bench': 1}",7.937667465209961
+SSD_ResNet50_V1_FPN_640x640_(RetinaNet50),Beach_426,"{'person': 1, 'bench': 1}",7.874692487716675
+SSD_ResNet50_V1_FPN_640x640_(RetinaNet50),Dogs_636,"{'sheep': 5, 'bird': 3, 'giraffe': 2, 'person': 2, 'cow': 2, 'cat': 2, 'train': 1, 'dog': 1, 'tv': 1, 'bus': 1}",7.953095531463623
+SSD_ResNet50_V1_FPN_640x640_(RetinaNet50),Dogs_397,"{'bench': 7, 'chair': 2, 'sheep': 2, 'tv': 1, 'bird': 1, 'laptop': 1, 'cat': 1, 'cow': 1, 'person': 1, 'car': 1, 'elephant': 1}",7.906837415695191
+SSD_ResNet50_V1_FPN_640x640_(RetinaNet50),Naxos Taverna_1024,"{'traffic light': 3, 'potted plant': 2, 'book': 1, 'laptop': 1, 'cat': 1, 'tv': 1, 'tie': 1, 'bed': 1, 'refrigerator': 1}",7.946130895614624
+SSD_ResNet50_V1_FPN_640x640_(RetinaNet50),Naxos Taverna_426,"{'book': 8, 'bench': 6, 'chair': 2, 'tv': 1, 'laptop': 1, 'potted plant': 1, 'bus': 1}",7.908077907562256
+SSD_ResNet50_V1_FPN_640x640_(RetinaNet50),Beatles_1800,"{'book': 6, 'chair': 4, 'bench': 2, 'refrigerator': 1, 'microwave': 1, 'train': 1, 'tv': 1, 'person': 1, 'laptop': 1, 'cat': 1, 'traffic light': 1}",7.886350393295288
+SSD_ResNet50_V1_FPN_640x640_(RetinaNet50),Beatles_640,"{'tv': 1, 'laptop': 1, 'clock': 1}",7.846953439712524
+SSD_ResNet50_V1_FPN_640x640_(RetinaNet50),Phones_768,"{'book': 10, 'person': 3, 'tv': 2, 'clock': 2, 'laptop': 1, 'traffic light': 1, 'microwave': 1}",7.900466108322144
+SSD_ResNet50_V1_FPN_640x640_(RetinaNet50),Phones_480,"{'microwave': 4, 'book': 4, 'clock': 3, 'tv': 2, 'person': 2, 'chair': 1, 'refrigerator': 1, 'bus': 1, 'oven': 1}",8.007946348190307
+SSD_ResNet50_V1_FPN_640x640_(RetinaNet50),Birds_2951,"{'boat': 13, 'bench': 3, 'sheep': 2, 'car': 1, 'chair': 1}",8.184817552566528
+SSD_ResNet50_V1_FPN_640x640_(RetinaNet50),Birds_640,"{'tv': 3, 'book': 2, 'laptop': 1, 'microwave': 1, 'refrigerator': 1, 'oven': 1, 'cell phone': 1, 'bench': 1, 'bus': 1, 'suitcase': 1, 'dog': 1, 'clock': 1, 'traffic light': 1}",8.027020692825317
+SSD_ResNet50_V1_FPN_1024x1024_(RetinaNet50),Beach_900,"{'traffic light': 1, 'clock': 1, 'dog': 1}",19.72526350021362
+SSD_ResNet50_V1_FPN_1024x1024_(RetinaNet50),Beach_426,{},19.875821685791017
+SSD_ResNet50_V1_FPN_1024x1024_(RetinaNet50),Dogs_636,"{'traffic light': 2, 'train': 1, 'dog': 1, 'horse': 1}",19.517870664596558
+SSD_ResNet50_V1_FPN_1024x1024_(RetinaNet50),Dogs_397,"{'bench': 1, 'train': 1, 'stop sign': 1}",19.57880229949951
+SSD_ResNet50_V1_FPN_1024x1024_(RetinaNet50),Naxos Taverna_1024,"{'traffic light': 3, 'person': 2, 'train': 1, 'truck': 1, 'refrigerator': 1, 'book': 1}",19.491920614242552
+SSD_ResNet50_V1_FPN_1024x1024_(RetinaNet50),Naxos Taverna_426,{'traffic light': 3},19.486118507385253
+SSD_ResNet50_V1_FPN_1024x1024_(RetinaNet50),Beatles_1800,"{'train': 1, 'truck': 1, 'refrigerator': 1, 'person': 1, 'bird': 1}",19.638972520828247
+SSD_ResNet50_V1_FPN_1024x1024_(RetinaNet50),Beatles_640,{'clock': 1},19.55783987045288
+SSD_ResNet50_V1_FPN_1024x1024_(RetinaNet50),Phones_768,"{'book': 5, 'cell phone': 2, 'clock': 2, 'keyboard': 1, 'tv': 1, 'train': 1}",19.708530330657958
+SSD_ResNet50_V1_FPN_1024x1024_(RetinaNet50),Phones_480,"{'clock': 2, 'tv': 1, 'chair': 1, 'book': 1}",19.588130903244018
+SSD_ResNet50_V1_FPN_1024x1024_(RetinaNet50),Birds_2951,"{'boat': 4, 'car': 3, 'surfboard': 3, 'bench': 1, 'clock': 1}",20.068666696548462
+SSD_ResNet50_V1_FPN_1024x1024_(RetinaNet50),Birds_640,"{'car': 1, 'truck': 1}",19.461738204956056
+SSD_ResNet101_V1_FPN_640x640_(RetinaNet101),Beach_900,"{'traffic light': 3, 'refrigerator': 1, 'tv': 1, 'microwave': 1, 'person': 1}",10.761731147766113
+SSD_ResNet101_V1_FPN_640x640_(RetinaNet101),Beach_426,"{'potted plant': 2, 'truck': 1, 'train': 1, 'couch': 1}",10.774063110351562
+SSD_ResNet101_V1_FPN_640x640_(RetinaNet101),Dogs_636,"{'bench': 4, 'person': 3, 'book': 3, 'train': 1, 'microwave': 1, 'cat': 1, 'dog': 1, 'oven': 1, 'tv': 1, 'bird': 1, 'chair': 1}",10.744070720672607
+SSD_ResNet101_V1_FPN_640x640_(RetinaNet101),Dogs_397,"{'book': 8, 'bench': 5, 'train': 1, 'chair': 1, 'couch': 1, 'truck': 1, 'tv': 1}",10.621209287643433
+SSD_ResNet101_V1_FPN_640x640_(RetinaNet101),Naxos Taverna_1024,"{'book': 8, 'bench': 2, 'tv': 1, 'laptop': 1, 'couch': 1, 'potted plant': 1, 'cat': 1, 'bed': 1, 'microwave': 1}",10.757010698318481
+SSD_ResNet101_V1_FPN_640x640_(RetinaNet101),Naxos Taverna_426,"{'person': 7, 'bench': 2, 'tv': 1, 'microwave': 1, 'laptop': 1, 'oven': 1, 'car': 1, 'cell phone': 1, 'truck': 1, 'potted plant': 1}",10.722345399856568
+SSD_ResNet101_V1_FPN_640x640_(RetinaNet101),Beatles_1800,"{'bench': 5, 'chair': 4, 'person': 3, 'refrigerator': 2, 'book': 2, 'tv': 1, 'microwave': 1, 'train': 1, 'bus': 1}",10.781686782836914
+SSD_ResNet101_V1_FPN_640x640_(RetinaNet101),Beatles_640,"{'car': 2, 'person': 2, 'truck': 2, 'microwave': 1, 'tv': 1, 'cell phone': 1, 'bus': 1, 'oven': 1, 'refrigerator': 1}",10.652556133270263
+SSD_ResNet101_V1_FPN_640x640_(RetinaNet101),Phones_768,"{'book': 5, 'person': 4, 'tv': 2, 'bench': 2, 'car': 2, 'microwave': 1, 'refrigerator': 1, 'cell phone': 1, 'laptop': 1, 'truck': 1}",10.645719385147094
+SSD_ResNet101_V1_FPN_640x640_(RetinaNet101),Phones_480,"{'tv': 3, 'person': 3, 'chair': 2, 'train': 1, 'truck': 1, 'microwave': 1, 'book': 1, 'bus': 1, 'clock': 1}",10.622033643722535
+SSD_ResNet101_V1_FPN_640x640_(RetinaNet101),Birds_2951,"{'bench': 4, 'bird': 4, 'cat': 4, 'car': 3, 'tv': 1, 'laptop': 1, 'boat': 1, 'microwave': 1, 'dog': 1}",10.84839563369751
+SSD_ResNet101_V1_FPN_640x640_(RetinaNet101),Birds_640,"{'person': 2, 'truck': 1, 'microwave': 1, 'refrigerator': 1, 'tv': 1, 'bus': 1}",10.637096738815307
+SSD_ResNet101_V1_FPN_1024x1024_(RetinaNet101),Beach_900,{'traffic light': 2},26.25506148338318
+SSD_ResNet101_V1_FPN_1024x1024_(RetinaNet101),Beach_426,{},26.248133516311647
+SSD_ResNet101_V1_FPN_1024x1024_(RetinaNet101),Dogs_636,"{'book': 12, 'bird': 2, 'bench': 2, 'dog': 2, 'train': 1, 'surfboard': 1}",26.375702953338624
+SSD_ResNet101_V1_FPN_1024x1024_(RetinaNet101),Dogs_397,"{'book': 2, 'chair': 1, 'traffic light': 1, 'bench': 1, 'person': 1, 'sports ball': 1, 'dog': 1}",26.541435623168944
+SSD_ResNet101_V1_FPN_1024x1024_(RetinaNet101),Naxos Taverna_1024,"{'traffic light': 3, 'suitcase': 1, 'train': 1, 'potted plant': 1, 'handbag': 1}",27.255867433547973
+SSD_ResNet101_V1_FPN_1024x1024_(RetinaNet101),Naxos Taverna_426,"{'car': 4, 'person': 4, 'bench': 1}",26.715404415130614
+SSD_ResNet101_V1_FPN_1024x1024_(RetinaNet101),Beatles_1800,"{'book': 3, 'chair': 3, 'sports ball': 2, 'bench': 2, 'train': 1, 'truck': 1, 'refrigerator': 1, 'bus': 1, 'bottle': 1, 'bird': 1}",26.277448892593384
+SSD_ResNet101_V1_FPN_1024x1024_(RetinaNet101),Beatles_640,"{'traffic light': 3, 'bench': 1, 'person': 1, 'train': 1}",26.209622859954834
+SSD_ResNet101_V1_FPN_1024x1024_(RetinaNet101),Phones_768,"{'car': 2, 'cell phone': 1, 'tv': 1, 'clock': 1, 'bench': 1, 'remote': 1, 'refrigerator': 1, 'microwave': 1, 'truck': 1}",26.487279415130615
+SSD_ResNet101_V1_FPN_1024x1024_(RetinaNet101),Phones_480,"{'clock': 2, 'traffic light': 1}",26.523046016693115
+SSD_ResNet101_V1_FPN_1024x1024_(RetinaNet101),Birds_2951,"{'bird': 5, 'dog': 4, 'refrigerator': 1, 'cake': 1, 'suitcase': 1, 'toilet': 1, 'stop sign': 1, 'truck': 1, 'bench': 1, 'sink': 1, 'clock': 1, 'baseball glove': 1}",26.633155488967894
+SSD_ResNet101_V1_FPN_1024x1024_(RetinaNet101),Birds_640,{'car': 1},26.724952983856202
+SSD_ResNet152_V1_FPN_640x640_(RetinaNet152),Beach_900,"{'book': 5, 'refrigerator': 1, 'stop sign': 1, 'suitcase': 1, 'dog': 1}",13.644947338104249
+SSD_ResNet152_V1_FPN_640x640_(RetinaNet152),Beach_426,"{'traffic light': 3, 'truck': 1, 'book': 1}",13.46933650970459
+SSD_ResNet152_V1_FPN_640x640_(RetinaNet152),Dogs_636,"{'bench': 8, 'traffic light': 3, 'bird': 3, 'tie': 2, 'cat': 1, 'chair': 1, 'book': 1, 'dog': 1}",13.686922645568847
+SSD_ResNet152_V1_FPN_640x640_(RetinaNet152),Dogs_397,"{'book': 9, 'person': 3, 'bench': 1}",13.49359917640686
+SSD_ResNet152_V1_FPN_640x640_(RetinaNet152),Naxos Taverna_1024,"{'bus': 4, 'bench': 4, 'potted plant': 2, 'car': 2, 'truck': 2, 'carrot': 2, 'skateboard': 1, 'cat': 1, 'suitcase': 1, 'book': 1}",13.560097694396973
+SSD_ResNet152_V1_FPN_640x640_(RetinaNet152),Naxos Taverna_426,"{'book': 19, 'laptop': 1}",13.398725891113282
+SSD_ResNet152_V1_FPN_640x640_(RetinaNet152),Beatles_1800,"{'book': 8, 'bench': 7, 'refrigerator': 1, 'bottle': 1, 'chair': 1, 'clock': 1, 'person': 1}",13.447966814041138
+SSD_ResNet152_V1_FPN_640x640_(RetinaNet152),Beatles_640,"{'tv': 1, 'book': 1, 'traffic light': 1, 'laptop': 1}",13.480856466293336
+SSD_ResNet152_V1_FPN_640x640_(RetinaNet152),Phones_768,"{'bench': 7, 'book': 6, 'clock': 4, 'tv': 1, 'cell phone': 1, 'person': 1}",13.571849393844605
+SSD_ResNet152_V1_FPN_640x640_(RetinaNet152),Phones_480,"{'book': 3, 'traffic light': 2, 'tv': 2, 'clock': 1}",13.576723003387452
+SSD_ResNet152_V1_FPN_640x640_(RetinaNet152),Birds_2951,"{'bird': 11, 'boat': 2, 'clock': 1, 'airplane': 1, 'bench': 1, 'tie': 1, 'surfboard': 1, 'cat': 1, 'cake': 1}",13.816220808029176
+SSD_ResNet152_V1_FPN_640x640_(RetinaNet152),Birds_640,"{'traffic light': 3, 'book': 2, 'suitcase': 1, 'tv': 1, 'refrigerator': 1}",13.556744194030761
+SSD_ResNet152_V1_FPN_1024x1024_(RetinaNet152),Beach_900,{'traffic light': 2},33.81974081993103
+SSD_ResNet152_V1_FPN_1024x1024_(RetinaNet152),Beach_426,{'person': 1},33.26551856994629
+SSD_ResNet152_V1_FPN_1024x1024_(RetinaNet152),Dogs_636,"{'bench': 12, 'dog': 2, 'cat': 2, 'train': 1, 'traffic light': 1, 'person': 1, 'bird': 1}",33.50342974662781
+SSD_ResNet152_V1_FPN_1024x1024_(RetinaNet152),Dogs_397,"{'sports ball': 14, 'person': 2, 'train': 1, 'traffic light': 1}",33.444129657745364
+SSD_ResNet152_V1_FPN_1024x1024_(RetinaNet152),Naxos Taverna_1024,"{'traffic light': 3, 'sports ball': 2, 'bench': 1, 'bus': 1, 'book': 1, 'tv': 1}",33.33449735641479
+SSD_ResNet152_V1_FPN_1024x1024_(RetinaNet152),Naxos Taverna_426,"{'bench': 16, 'truck': 2, 'train': 1, 'bus': 1}",34.14711236953735
+SSD_ResNet152_V1_FPN_1024x1024_(RetinaNet152),Beatles_1800,"{'sports ball': 15, 'bench': 3, 'book': 1, 'oven': 1}",33.50920944213867
+SSD_ResNet152_V1_FPN_1024x1024_(RetinaNet152),Beatles_640,"{'bottle': 1, 'truck': 1, 'bench': 1}",33.15523962974548
+SSD_ResNet152_V1_FPN_1024x1024_(RetinaNet152),Phones_768,"{'cell phone': 1, 'train': 1, 'clock': 1, 'truck': 1, 'person': 1, 'bus': 1, 'bench': 1}",33.331757402420045
+SSD_ResNet152_V1_FPN_1024x1024_(RetinaNet152),Phones_480,"{'tv': 1, 'truck': 1}",33.30523128509522
+SSD_ResNet152_V1_FPN_1024x1024_(RetinaNet152),Birds_2951,"{'boat': 12, 'bird': 5, 'bench': 2, 'sports ball': 1}",33.44983539581299
+SSD_ResNet152_V1_FPN_1024x1024_(RetinaNet152),Birds_640,"{'train': 2, 'stop sign': 1, 'bicycle': 1}",33.30305519104004
+Faster_R-CNN_ResNet50_V1_640x640,Beach_900,"{'traffic light': 1, 'pizza': 1}",11.964687633514405
+Faster_R-CNN_ResNet50_V1_640x640,Beach_426,{},11.887647104263305
+Faster_R-CNN_ResNet50_V1_640x640,Dogs_636,"{'book': 3, 'person': 1, 'bus': 1}",11.956663703918457
+Faster_R-CNN_ResNet50_V1_640x640,Dogs_397,"{'tv': 1, 'book': 1, 'train': 1}",11.916970014572144
+Faster_R-CNN_ResNet50_V1_640x640,Naxos Taverna_1024,"{'bus': 4, 'bench': 2, 'chair': 1}",11.937076568603516
+Faster_R-CNN_ResNet50_V1_640x640,Naxos Taverna_426,"{'bench': 2, 'tv': 1}",11.915378189086914
+Faster_R-CNN_ResNet50_V1_640x640,Beatles_1800,"{'refrigerator': 1, 'book': 1, 'traffic light': 1, 'chair': 1}",12.149477195739745
+Faster_R-CNN_ResNet50_V1_640x640,Beatles_640,{},11.86749496459961
+Faster_R-CNN_ResNet50_V1_640x640,Phones_768,"{'book': 2, 'traffic light': 1, 'refrigerator': 1, 'bench': 1, 'tv': 1}",11.927760410308839
+Faster_R-CNN_ResNet50_V1_640x640,Phones_480,"{'clock': 2, 'tv': 1, 'book': 1}",11.866737461090088
+Faster_R-CNN_ResNet50_V1_640x640,Birds_2951,"{'book': 1, 'tv': 1}",12.064411306381226
+Faster_R-CNN_ResNet50_V1_640x640,Birds_640,"{'book': 1, 'bus': 1}",11.928853464126586
+Faster_R-CNN_ResNet50_V1_1024x1024,Beach_900,{'bed': 1},17.145656728744505
+Faster_R-CNN_ResNet50_V1_1024x1024,Beach_426,{'dog': 2},17.170043754577637
+Faster_R-CNN_ResNet50_V1_1024x1024,Dogs_636,"{'dog': 2, 'bird': 2, 'surfboard': 1, 'bench': 1, 'scissors': 1}",17.235790729522705
+Faster_R-CNN_ResNet50_V1_1024x1024,Dogs_397,{},17.08234567642212
+Faster_R-CNN_ResNet50_V1_1024x1024,Naxos Taverna_1024,"{'person': 3, 'bird': 1}",17.20557827949524
+Faster_R-CNN_ResNet50_V1_1024x1024,Naxos Taverna_426,{'bench': 8},17.123125886917116
+Faster_R-CNN_ResNet50_V1_1024x1024,Beatles_1800,"{'skis': 1, 'train': 1}",17.10224061012268
+Faster_R-CNN_ResNet50_V1_1024x1024,Beatles_640,{'tv': 1},17.143802833557128
+Faster_R-CNN_ResNet50_V1_1024x1024,Phones_768,"{'person': 3, 'cell phone': 1, 'remote': 1, 'clock': 1, 'scissors': 1, 'train': 1}",17.19780659675598
+Faster_R-CNN_ResNet50_V1_1024x1024,Phones_480,"{'person': 3, 'book': 1}",17.168261528015137
+Faster_R-CNN_ResNet50_V1_1024x1024,Birds_2951,"{'bird': 13, 'dog': 2}",17.400576210021974
+Faster_R-CNN_ResNet50_V1_1024x1024,Birds_640,{'bench': 1},17.170082807540894
+Faster_R-CNN_ResNet50_V1_800x1333,Beach_900,{'bench': 2},20.70472741127014
+Faster_R-CNN_ResNet50_V1_800x1333,Beach_426,"{'bench': 2, 'person': 2, 'cat': 1, 'pizza': 1}",20.642115831375122
+Faster_R-CNN_ResNet50_V1_800x1333,Dogs_636,"{'dog': 7, 'book': 5, 'surfboard': 2, 'train': 1, 'bird': 1, 'horse': 1, 'skis': 1, 'truck': 1, 'cat': 1}",20.992964029312134
+Faster_R-CNN_ResNet50_V1_800x1333,Dogs_397,"{'surfboard': 9, 'book': 3}",20.573857736587524
+Faster_R-CNN_ResNet50_V1_800x1333,Naxos Taverna_1024,"{'bench': 3, 'person': 3, 'train': 2, 'bird': 1, 'dog': 1, 'clock': 1}",20.450132608413696
+Faster_R-CNN_ResNet50_V1_800x1333,Naxos Taverna_426,"{'bench': 18, 'chair': 1, 'person': 1}",20.637345361709595
+Faster_R-CNN_ResNet50_V1_800x1333,Beatles_1800,"{'book': 3, 'train': 1, 'bus': 1}",20.511213779449463
+Faster_R-CNN_ResNet50_V1_800x1333,Beatles_640,"{'book': 1, 'bottle': 1}",20.574317121505736
+Faster_R-CNN_ResNet50_V1_800x1333,Phones_768,"{'person': 5, 'book': 3, 'traffic light': 1, 'chair': 1, 'cell phone': 1}",20.92382616996765
+Faster_R-CNN_ResNet50_V1_800x1333,Phones_480,"{'chair': 1, 'person': 1, 'tv': 1}",20.90423741340637
+Faster_R-CNN_ResNet50_V1_800x1333,Birds_2951,"{'bird': 3, 'dog': 2, 'bench': 2, 'chair': 1, 'banana': 1, 'bed': 1}",20.699341535568237
+Faster_R-CNN_ResNet50_V1_800x1333,Birds_640,"{'cat': 2, 'potted plant': 1, 'book': 1, 'train': 1, 'bench': 1, 'dog': 1}",20.537617444992065
+Faster_R-CNN_ResNet101_V1_640x640,Beach_900,{},14.57308554649353
+Faster_R-CNN_ResNet101_V1_640x640,Beach_426,{'bench': 1},14.562334442138672
+Faster_R-CNN_ResNet101_V1_640x640,Dogs_636,"{'bench': 5, 'bus': 3, 'train': 1, 'cat': 1, 'dog': 1}",14.62227201461792
+Faster_R-CNN_ResNet101_V1_640x640,Dogs_397,"{'bench': 3, 'surfboard': 1}",14.784653854370116
+Faster_R-CNN_ResNet101_V1_640x640,Naxos Taverna_1024,"{'bus': 6, 'bench': 1, 'traffic light': 1, 'car': 1}",14.61065731048584
+Faster_R-CNN_ResNet101_V1_640x640,Naxos Taverna_426,"{'tv': 2, 'train': 1}",14.555332565307618
+Faster_R-CNN_ResNet101_V1_640x640,Beatles_1800,"{'traffic light': 1, 'train': 1, 'tv': 1, 'refrigerator': 1, 'book': 1, 'person': 1}",14.655110359191895
+Faster_R-CNN_ResNet101_V1_640x640,Beatles_640,{'tv': 2},14.606891059875489
+Faster_R-CNN_ResNet101_V1_640x640,Phones_768,"{'bench': 1, 'traffic light': 1, 'tv': 1, 'bird': 1}",14.583946466445923
+Faster_R-CNN_ResNet101_V1_640x640,Phones_480,{},14.607480716705322
+Faster_R-CNN_ResNet101_V1_640x640,Birds_2951,{'bird': 1},14.765495491027831
+Faster_R-CNN_ResNet101_V1_640x640,Birds_640,"{'traffic light': 1, 'tv': 1}",14.5984601020813
+Faster_R-CNN_ResNet101_V1_1024x1024,Beach_900,{},23.79420518875122
+Faster_R-CNN_ResNet101_V1_1024x1024,Beach_426,{},23.684804058074953
+Faster_R-CNN_ResNet101_V1_1024x1024,Dogs_636,"{'surfboard': 2, 'train': 2, 'dog': 1, 'cat': 1, 'book': 1, 'refrigerator': 1, 'person': 1}",23.750105571746825
+Faster_R-CNN_ResNet101_V1_1024x1024,Dogs_397,"{'surfboard': 3, 'truck': 1, 'person': 1}",23.792265605926513
+Faster_R-CNN_ResNet101_V1_1024x1024,Naxos Taverna_1024,{},23.74879412651062
+Faster_R-CNN_ResNet101_V1_1024x1024,Naxos Taverna_426,"{'tv': 1, 'bench': 1, 'train': 1}",23.68649911880493
+Faster_R-CNN_ResNet101_V1_1024x1024,Beatles_1800,"{'bench': 1, 'bird': 1, 'person': 1, 'dog': 1}",23.610864639282227
+Faster_R-CNN_ResNet101_V1_1024x1024,Beatles_640,{'tv': 1},23.659033250808715
+Faster_R-CNN_ResNet101_V1_1024x1024,Phones_768,"{'book': 3, 'cell phone': 2, 'chair': 1, 'remote': 1, 'bird': 1, 'dog': 1}",23.743534326553345
+Faster_R-CNN_ResNet101_V1_1024x1024,Phones_480,"{'remote': 1, 'cell phone': 1}",23.69722228050232
+Faster_R-CNN_ResNet101_V1_1024x1024,Birds_2951,{'bench': 1},23.855540084838868
+Faster_R-CNN_ResNet101_V1_1024x1024,Birds_640,"{'tv': 1, 'bench': 1}",23.717912912368774
+Faster_R-CNN_ResNet101_V1_800x1333,Beach_900,{'book': 2},32.15874662399292
+Faster_R-CNN_ResNet101_V1_800x1333,Beach_426,{},32.63171310424805
+Faster_R-CNN_ResNet101_V1_800x1333,Dogs_636,"{'train': 3, 'bench': 2, 'cat': 1, 'dog': 1}",31.942754983901978
+Faster_R-CNN_ResNet101_V1_800x1333,Dogs_397,{'surfboard': 2},31.80355668067932
+Faster_R-CNN_ResNet101_V1_800x1333,Naxos Taverna_1024,"{'bird': 1, 'person': 1}",32.39405374526977
+Faster_R-CNN_ResNet101_V1_800x1333,Naxos Taverna_426,"{'bench': 3, 'book': 1}",32.15176525115967
+Faster_R-CNN_ResNet101_V1_800x1333,Beatles_1800,"{'book': 4, 'person': 2}",31.719859886169434
+Faster_R-CNN_ResNet101_V1_800x1333,Beatles_640,{'book': 1},31.752214622497558
+Faster_R-CNN_ResNet101_V1_800x1333,Phones_768,"{'book': 2, 'chair': 1, 'cell phone': 1, 'person': 1, 'bench': 1}",31.909604787826538
+Faster_R-CNN_ResNet101_V1_800x1333,Phones_480,"{'book': 2, 'remote': 1, 'cell phone': 1}",31.764679145812988
+Faster_R-CNN_ResNet101_V1_800x1333,Birds_2951,"{'bird': 2, 'dog': 1, 'chair': 1, 'horse': 1}",32.00201854705811
+Faster_R-CNN_ResNet101_V1_800x1333,Birds_640,"{'train': 1, 'bench': 1}",32.38001699447632
+Faster_R-CNN_ResNet152_V1_640x640,Beach_900,{},17.376838874816894
+Faster_R-CNN_ResNet152_V1_640x640,Beach_426,{},17.30709056854248
+Faster_R-CNN_ResNet152_V1_640x640,Dogs_636,"{'bench': 1, 'train': 1, 'person': 1, 'bus': 1}",17.312730598449708
+Faster_R-CNN_ResNet152_V1_640x640,Dogs_397,{'book': 1},17.348346138000487
+Faster_R-CNN_ResNet152_V1_640x640,Naxos Taverna_1024,{},17.366536140441895
+Faster_R-CNN_ResNet152_V1_640x640,Naxos Taverna_426,"{'tv': 1, 'bench': 1, 'book': 1, 'train': 1, 'bus': 1}",17.332285737991334
+Faster_R-CNN_ResNet152_V1_640x640,Beatles_1800,{},17.396828365325927
+Faster_R-CNN_ResNet152_V1_640x640,Beatles_640,{},17.371125793457033
+Faster_R-CNN_ResNet152_V1_640x640,Phones_768,"{'traffic light': 1, 'tv': 1}",17.283629369735717
+Faster_R-CNN_ResNet152_V1_640x640,Phones_480,{},17.296681261062623
+Faster_R-CNN_ResNet152_V1_640x640,Birds_2951,"{'sports ball': 1, 'dog': 1}",17.522786808013915
+Faster_R-CNN_ResNet152_V1_640x640,Birds_640,"{'tv': 1, 'book': 1}",17.36930031776428
+Faster_R-CNN_ResNet152_V1_1024x1024,Beach_900,{'tv': 1},30.577196073532104
+Faster_R-CNN_ResNet152_V1_1024x1024,Beach_426,{},30.53816885948181
+Faster_R-CNN_ResNet152_V1_1024x1024,Dogs_636,"{'surfboard': 10, 'cat': 1, 'book': 1, 'horse': 1, 'train': 1, 'dog': 1}",30.592202568054198
+Faster_R-CNN_ResNet152_V1_1024x1024,Dogs_397,"{'surfboard': 2, 'book': 1, 'cell phone': 1, 'bus': 1}",30.56320991516113
+Faster_R-CNN_ResNet152_V1_1024x1024,Naxos Taverna_1024,"{'tv': 1, 'book': 1, 'person': 1}",30.742956352233886
+Faster_R-CNN_ResNet152_V1_1024x1024,Naxos Taverna_426,"{'cell phone': 1, 'tv': 1, 'bench': 1, 'laptop': 1, 'bus': 1}",30.582730197906493
+Faster_R-CNN_ResNet152_V1_1024x1024,Beatles_1800,"{'cell phone': 1, 'laptop': 1, 'book': 1}",30.487618255615235
+Faster_R-CNN_ResNet152_V1_1024x1024,Beatles_640,"{'laptop': 1, 'cell phone': 1, 'bus': 1, 'tv': 1}",30.47762041091919
+Faster_R-CNN_ResNet152_V1_1024x1024,Phones_768,"{'cell phone': 2, 'book': 1, 'remote': 1, 'train': 1}",30.595956087112427
+Faster_R-CNN_ResNet152_V1_1024x1024,Phones_480,"{'cell phone': 2, 'book': 1}",30.489714670181275
+Faster_R-CNN_ResNet152_V1_1024x1024,Birds_2951,{'bench': 1},30.84422402381897
+Faster_R-CNN_ResNet152_V1_1024x1024,Birds_640,"{'bus': 1, 'cell phone': 1}",30.505002784729005
+Faster_R-CNN_ResNet152_V1_800x1333,Beach_900,{'bench': 1},43.51273398399353
+Faster_R-CNN_ResNet152_V1_800x1333,Beach_426,{},45.53319902420044
+Faster_R-CNN_ResNet152_V1_800x1333,Dogs_636,"{'cat': 1, 'dog': 1, 'bench': 1}",43.62190494537354
+Faster_R-CNN_ResNet152_V1_800x1333,Dogs_397,{'surfboard': 5},43.50505709648132
+Faster_R-CNN_ResNet152_V1_800x1333,Naxos Taverna_1024,"{'bus': 1, 'potted plant': 1, 'person': 1}",43.754964876174924
+Faster_R-CNN_ResNet152_V1_800x1333,Naxos Taverna_426,"{'train': 5, 'tv': 1}",43.8734411239624
+Faster_R-CNN_ResNet152_V1_800x1333,Beatles_1800,"{'book': 5, 'train': 1, 'refrigerator': 1}",44.50026264190674
+Faster_R-CNN_ResNet152_V1_800x1333,Beatles_640,"{'book': 2, 'tv': 1, 'person': 1}",44.56244163513183
+Faster_R-CNN_ResNet152_V1_800x1333,Phones_768,{'tv': 1},43.32952299118042
+Faster_R-CNN_ResNet152_V1_800x1333,Phones_480,{'traffic light': 1},43.5375834941864
+Faster_R-CNN_ResNet152_V1_800x1333,Birds_2951,"{'boat': 8, 'bird': 2, 'bed': 1, 'train': 1, 'car': 1, 'bench': 1}",43.86476702690125
+Faster_R-CNN_ResNet152_V1_800x1333,Birds_640,"{'train': 1, 'tv': 1}",44.01375050544739
+Faster_R-CNN_Inception_ResNet_V2_640x640,Beach_900,{'bench': 1},73.89172787666321
+Faster_R-CNN_Inception_ResNet_V2_640x640,Beach_426,{'book': 2},73.49774289131165
+Faster_R-CNN_Inception_ResNet_V2_640x640,Dogs_636,"{'book': 1, 'bench': 1, 'cat': 1}",73.46700043678284
+Faster_R-CNN_Inception_ResNet_V2_640x640,Dogs_397,{'book': 20},73.59791040420532
+Faster_R-CNN_Inception_ResNet_V2_640x640,Naxos Taverna_1024,"{'cell phone': 1, 'tv': 1, 'person': 1}",73.69127531051636
+Faster_R-CNN_Inception_ResNet_V2_640x640,Naxos Taverna_426,"{'train': 2, 'bus': 1, 'laptop': 1, 'tv': 1, 'book': 1}",73.79644503593445
+Faster_R-CNN_Inception_ResNet_V2_640x640,Beatles_1800,"{'chair': 2, 'refrigerator': 1, 'cell phone': 1, 'bench': 1, 'tv': 1, 'book': 1, 'person': 1, 'laptop': 1}",73.53952460289001
+Faster_R-CNN_Inception_ResNet_V2_640x640,Beatles_640,"{'book': 1, 'laptop': 1, 'cell phone': 1, 'tv': 1, 'refrigerator': 1, 'bench': 1}",73.935693359375
+Faster_R-CNN_Inception_ResNet_V2_640x640,Phones_768,"{'cell phone': 4, 'book': 1, 'chair': 1, 'laptop': 1}",73.5389657497406
+Faster_R-CNN_Inception_ResNet_V2_640x640,Phones_480,{'book': 4},73.86850843429565
+Faster_R-CNN_Inception_ResNet_V2_640x640,Birds_2951,"{'bench': 3, 'refrigerator': 1, 'bird': 1, 'car': 1}",73.99627718925476
+Faster_R-CNN_Inception_ResNet_V2_640x640,Birds_640,"{'book': 1, 'bus': 1, 'laptop': 1, 'refrigerator': 1, 'person': 1}",73.63789749145508
+Faster_R-CNN_Inception_ResNet_V2_1024x1024,Beach_900,{'bench': 3},91.36596503257752
+Faster_R-CNN_Inception_ResNet_V2_1024x1024,Beach_426,{'person': 2},91.6947340965271
+Faster_R-CNN_Inception_ResNet_V2_1024x1024,Dogs_636,"{'car': 2, 'cat': 1, 'train': 1, 'dog': 1, 'person': 1, 'bench': 1}",91.32845072746277
+Faster_R-CNN_Inception_ResNet_V2_1024x1024,Dogs_397,{},91.06224265098572
+Faster_R-CNN_Inception_ResNet_V2_1024x1024,Naxos Taverna_1024,"{'traffic light': 2, 'car': 1}",92.55008134841918
+Faster_R-CNN_Inception_ResNet_V2_1024x1024,Naxos Taverna_426,"{'bench': 7, 'train': 1}",90.5865936756134
+Faster_R-CNN_Inception_ResNet_V2_1024x1024,Beatles_1800,{},90.86407403945923
+Faster_R-CNN_Inception_ResNet_V2_1024x1024,Beatles_640,"{'book': 2, 'person': 1}",91.1572238445282
+Faster_R-CNN_Inception_ResNet_V2_1024x1024,Phones_768,"{'cell phone': 2, 'train': 1, 'car': 1}",90.80468482971192
+Faster_R-CNN_Inception_ResNet_V2_1024x1024,Phones_480,{},90.95198526382447
+Faster_R-CNN_Inception_ResNet_V2_1024x1024,Birds_2951,{'refrigerator': 1},91.2976420879364
+Faster_R-CNN_Inception_ResNet_V2_1024x1024,Birds_640,{'bench': 1},91.27301759719849
+Mask_R-CNN_Inception_ResNet_V2_1024x1024,Beach_900,{},142.72449584007262
+Mask_R-CNN_Inception_ResNet_V2_1024x1024,Beach_426,{},142.24825806617736
+Mask_R-CNN_Inception_ResNet_V2_1024x1024,Dogs_636,"{'bench': 10, 'cat': 1, 'person': 1}",141.03160138130187
+Mask_R-CNN_Inception_ResNet_V2_1024x1024,Dogs_397,"{'bench': 1, 'train': 1}",140.5346095085144
+Mask_R-CNN_Inception_ResNet_V2_1024x1024,Naxos Taverna_1024,{},143.27307052612304
+Mask_R-CNN_Inception_ResNet_V2_1024x1024,Naxos Taverna_426,"{'bench': 7, 'bus': 1}",140.04868083000184
+Mask_R-CNN_Inception_ResNet_V2_1024x1024,Beatles_1800,"{'traffic light': 1, 'bus': 1}",140.21797456741334
+Mask_R-CNN_Inception_ResNet_V2_1024x1024,Beatles_640,{'bench': 3},140.0372663974762
+Mask_R-CNN_Inception_ResNet_V2_1024x1024,Phones_768,"{'cell phone': 2, 'train': 1, 'bus': 1, 'remote': 1, 'chair': 1}",143.0094843387604
+Mask_R-CNN_Inception_ResNet_V2_1024x1024,Phones_480,"{'train': 1, 'bus': 1}",139.7760941505432
+Mask_R-CNN_Inception_ResNet_V2_1024x1024,Birds_2951,"{'car': 1, 'truck': 1}",140.54486289024354
+Mask_R-CNN_Inception_ResNet_V2_1024x1024,Birds_640,"{'bench': 4, 'book': 1}",140.8155496120453
