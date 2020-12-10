@@ -60,6 +60,7 @@ ALL_IMAGES = {
   'Birds' : 'https://upload.wikimedia.org/wikipedia/commons/0/09/The_smaller_British_birds_%288053836633%29.jpg',
 }
 
+
 if MODE_LOAD_ONLY_SAVED_MODEL:
     ALL_IMAGES['Beach'] =  './image2.jpg'
     ALL_IMAGES['Dogs'] = './image1.jpg'
@@ -149,13 +150,13 @@ def eval_image(detector, model_name, image, coco_labels, n_repeats=5):
  
     result = {key: value.numpy() for key, value in result.items()}
 
-    image_with_boxes = utils.draw_boxes(
-        image['image_np'][0, :, :, :], result["detection_boxes"][0],
-        result["detection_classes"][0], result["detection_scores"][0], coco_labels, max_boxes = MAX_OBJECTS, min_score=MIN_SCORE)
-
     obj_ids = [id for id, score in zip(result["detection_classes"][0,:MAX_OBJECTS].tolist(), result["detection_scores"][0].tolist()) if score >= MIN_SCORE]
     count_objects = Counter([coco_labels[id] for id in obj_ids])
     count_objects = sorted(count_objects.items(), key=lambda x: x[1], reverse=True)
+
+    image_with_boxes = utils.draw_boxes(
+        np.copy(image['image_np'][0, :, :, :]), result["detection_boxes"][0],
+        result["detection_classes"][0], result["detection_scores"][0], coco_labels, max_boxes = MAX_OBJECTS, min_score=MIN_SCORE)
 
     im = Image.fromarray(image_with_boxes)
     im.save(os.path.join(OUTPUT_IMAGES_PATH,
@@ -193,22 +194,10 @@ def eval_model(model_handle, model_name, images):
     for image in images:
         image_metrics.append(eval_image(detector, model_name, image, coco_labels))
     
-    try:
-        batch = np.concatenate(images[0]['image_np'] * 5)
-        start = time.time()
-        result = detector(batch)
-        print(f'batch 5 {time.time() - start} sec')
-        do_batch = 1
-    except Exception as e:
-        do_batch = 0
-        print('Only one input dimension')
-        # print(e)
-    
     metrics = {
         'name': model_name,
         'init_time': tm_load,
         'warm_up': tm_warmup,
-        'do_batch': do_batch,
         'graph_info': str(detector.graph_debug_info),
         'tf_git_version': str(detector.tensorflow_git_version),
         'tf_version': str(detector.tensorflow_version),
